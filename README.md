@@ -12,3 +12,7 @@ DIO - Formacao_Unity_3D_Game_Developer
 
 # Projeto 01 Explorando o Editor
 - Projeto criado como urp 3D
+- com o botão direito do mouse e WASD podemos movimentar na cena. com Q vamos pra baixo e com E para cima
+- na aba game vemos como o jogo ficará. podemos definir o tamannho de tela
+- colocamos 16:9, mais proximo do que o jogado ve no final 
+- podemos criar na aba game nossas resoluções específicas
